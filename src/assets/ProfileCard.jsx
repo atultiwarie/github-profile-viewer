@@ -1,4 +1,4 @@
-// src/components/ProfileCard.jsx
+
 const ProfileCard = ({ user }) => {
   return (
     <div className="card">
